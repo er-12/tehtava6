@@ -13,6 +13,7 @@ public class Asiakas {
 		this.etunimi = etunimi;
 		this.sukunimi = sukunimi;
 		this.puhelin = puhelin;
+		this.sposti = sposti;
 	}
 	
 	public int getAsiakas_id() {
